@@ -8,7 +8,7 @@ This is a list of Hacking Streamers derived from the original Hacklists: [here](
 
 Streamer | Twitch | YouTube
 ---: | --- | :---
-`ahaquer` | [ahaquer](https://www.twitch.tv/ahaquer) |
+`ahaquer` | [ahaquer](https://www.twitch.tv/ahaquer) |BasteG0d69
 `alexchaveriat` | [alexchaveriat](https://www.twitch.tv/alexchaveriat) | [YouTube](https://www.youtube.com/c/AlexChaveriat/videos)
 `alh4zr3d` | [alh4zr3d](https://twitch.tv/alh4zr3d) | [YouTube](https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA)
 `alomancy` | [alomancy](https://www.twitch.tv/alomancy) | [YouTube](https://www.youtube.com/channel/UCe2i94acge3Bv2Tmjla0h_g)
@@ -17,6 +17,7 @@ Streamer | Twitch | YouTube
 `ash_f0x` | [ash_f0x](https://twitch.tv/ash_f0x) | 
 `aywang` | [aywang](https://twitch.tv/aywang) | 
 `bashbunni` | [bashbunni](https://www.twitch.tv/bashbunni) |
+`BasteG0d69` | | [](https://www.youtube.com/watch?v=CoLCdwjV62M)
 `blindpentester` | [blindpentester](https://twitch.tv/blindpentester) | 
 `blvkhakr` | [blvkhakr](https://www.twitch.tv/blvkhakr) |
 `biueaider` | [biueaider](https://www.twitch.tv/biueaider) |
