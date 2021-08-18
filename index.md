@@ -94,7 +94,6 @@ Streamer | Twitch | YouTube
 `securityweekly` | [securityweekly](https://www.twitch.tv/securityweekly) | [YouTube](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg)
 `sharghaas` | [sharghaas](https://www.twitch.tv/sharghaas) |
 `s1zzurpmane` | [s1zzurpmane](https://www.twitch.tv/s1zzurpmane) |
-`slyborgsinner` | [slyborgsinner](https://twitch.tv/slyborgsinner) | 
 `smash8tap` | [smash8tap](https://twitch.tv/smash8tap) | 
 `softexploit` | [softexploit](https://www.twitch.tv/softexploit) |
 `spiceysec` | [spiceysec](https://www.twitch.tv/spiceysec) |
